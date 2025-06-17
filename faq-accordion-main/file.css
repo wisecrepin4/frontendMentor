@@ -1,0 +1,38 @@
+body {
+  background-color: violet;
+}
+#second {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
+#acomponent {
+  background-color: blueviolet;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px black;
+  justify-content: center;
+
+  align-items: center;
+  width: 60%;
+}
+
+.q {
+  background-color: white;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 20px;
+}
+.a {
+  color: rgb(150, 147, 147);
+}
+.rad {
+  display: none;
+}
+img {
+  display: inline;
+}
+.
